@@ -1,0 +1,34 @@
+{
+    "6616": {
+        "producto": "Chocolatina",
+        "marca": "Jet",
+        "seccion": "Snacks",
+        "cantidad": 12,
+        "precio": 1000.0,
+        "fecha_registro": "2025-08-25 20:30:55"
+    },
+    "2317": {
+        "producto": "Avena 250ML",
+        "marca": "Alpina",
+        "seccion": "Bebidas",
+        "cantidad": 8,
+        "precio": 3400.0,
+        "fecha_registro": "2025-08-25 20:34:57"
+    },
+    "1519": {
+        "producto": "PRUEBA",
+        "marca": "1",
+        "seccion": "Snacks",
+        "cantidad": 1,
+        "precio": 10000.0,
+        "fecha_registro": "2025-09-12 15:55:53"
+    },
+    "1234": {
+        "producto": "1",
+        "marca": "1",
+        "seccion": "Snacks",
+        "cantidad": 1,
+        "precio": 111.0,
+        "fecha_registro": "2025-09-12 16:03:03"
+    }
+}

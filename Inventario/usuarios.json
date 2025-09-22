@@ -1,0 +1,7 @@
+{
+  "admin": { "password": "admin123" },
+  "samuel": { "password": "1234" },
+  "eduar": { "password": "abcd" },
+  "invitado": { "password": "invitado123"}
+
+}

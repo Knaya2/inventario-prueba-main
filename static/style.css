@@ -1,0 +1,28 @@
+/* Fondo suave */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Animación de entrada */
+.animate-fade {
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Personalizar tarjetas */
+.card {
+    border-radius: 12px;
+}
+
+/* Botones */
+.btn {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+}
